@@ -7,4 +7,4 @@
  python libraries used in this program include
     #lxml
     #requests
-    #beautifulsoups
+    #beautifulsoup
