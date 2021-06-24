@@ -10,7 +10,7 @@ web_driver = webdriver.Chrome()
 #setting timeout before raisng an exception
 web_driver.implicitly_wait(100)
 
-url = 'http://twitter.com/'+handle
+url = 'https://twitter.com/'+handle
 
 
 #check incase of an error
